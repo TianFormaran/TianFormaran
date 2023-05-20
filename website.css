@@ -121,3 +121,15 @@ section img#Foreground
     font-size: 1.2em;
     color:#fff;
 }
+
+footer
+{
+    background-color: #001829;
+    color: #fff;
+    text-align: center;
+}
+
+#reviews
+{
+color: white;
+}
